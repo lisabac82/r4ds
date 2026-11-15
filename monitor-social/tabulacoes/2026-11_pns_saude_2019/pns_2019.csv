@@ -1,0 +1,28 @@
+posts,indicador,grupo,valor,unidade,ep,cv,n_amostra
+18/12; 14/12,Consultou médico nos últimos 12 meses,Mulheres,86.99,%,0.29,0.33,46869
+18/12; 14/12,Consultou médico nos últimos 12 meses,Homens,73.47,%,0.39,0.53,41662
+18/12; 14/12,Consultou médico nos últimos 12 meses,Mulheres negras,85.44,%,0.37,0.44,28885
+18/12; 14/12,Consultou médico nos últimos 12 meses,Mulheres brancas,88.81,%,0.43,0.48,17283
+18/12; 14/12,Consultou médico nos últimos 12 meses,Homens negros,70.25,%,0.53,0.75,25893
+18/12; 14/12,Consultou médico nos últimos 12 meses,Homens brancos,77.77,%,0.57,0.74,15126
+18/12; 14/12,Avalia a própria saúde como boa ou muito boa,Mulheres,64.01,%,0.41,0.64,46869
+18/12; 14/12,Avalia a própria saúde como boa ou muito boa,Homens,71.41,%,0.42,0.59,41662
+18/12; 14/12,Avalia a própria saúde como boa ou muito boa,Mulheres negras,59.23,%,0.53,0.90,28885
+18/12; 14/12,Avalia a própria saúde como boa ou muito boa,Mulheres brancas,70.07,%,0.59,0.84,17283
+18/12; 14/12,Avalia a própria saúde como boa ou muito boa,Homens negros,67.97,%,0.56,0.82,25893
+18/12; 14/12,Avalia a própria saúde como boa ou muito boa,Homens brancos,75.77,%,0.59,0.77,15126
+18/12; 14/12,Já recebeu diagnóstico de depressão,Mulheres,14.75,%,0.31,2.13,46869
+18/12; 14/12,Já recebeu diagnóstico de depressão,Homens,5.12,%,0.20,3.91,41662
+18/12; 14/12,Já recebeu diagnóstico de depressão,Mulheres negras,12.56,%,0.35,2.77,28885
+18/12; 14/12,Já recebeu diagnóstico de depressão,Mulheres brancas,17.50,%,0.52,2.99,17283
+18/12; 14/12,Já recebeu diagnóstico de depressão,Homens negros,4.11,%,0.26,6.25,25893
+18/12; 14/12,Já recebeu diagnóstico de depressão,Homens brancos,6.54,%,0.33,5.09,15126
+14/12,Já recebeu diagnóstico de depressão,"Mulheres, 18 a 29 anos",8.08,%,0.56,6.98,8073
+14/12,Já recebeu diagnóstico de depressão,"Homens, 18 a 29 anos",3.66,%,0.47,12.87,7321
+14/12,Já recebeu diagnóstico de depressão,"Mulheres, 30 a 59 anos",16.81,%,0.47,2.81,26261
+14/12,Já recebeu diagnóstico de depressão,"Homens, 30 a 59 anos",5.19,%,0.26,4.94,24148
+14/12,Já recebeu diagnóstico de depressão,"Mulheres, 60 ou mais anos",15.80,%,0.57,3.63,12535
+14/12,Já recebeu diagnóstico de depressão,"Homens, 60 ou mais anos",6.61,%,0.44,6.60,10193
+validação,Pessoas com diagnóstico de depressão (total),Total,16292.67,mil pessoas,,,8242
+validação,Pessoas com diagnóstico de depressão (total),Mulheres,12479.15,mil pessoas,,,6312
+validação,Pessoas com diagnóstico de depressão (total),Homens,3813.52,mil pessoas,,,1930

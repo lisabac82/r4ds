@@ -1,0 +1,44 @@
+posts,indicador,grupo,valor,unidade,n
+16/12,Nascidos vivos,Total,2389325.00,nascimentos,2389325
+16/12,"Óbitos maternos (declarados, sem fator de correção)",Total,1305.00,óbitos,1305
+16/12,Razão de mortalidade materna (sem correção),Total,54.62,por 100 mil nascidos vivos,1305
+16/12,Razão de mortalidade materna (sem correção),Negras (pretas e pardas),54.95,por 100 mil nascidos vivos,834
+16/12,Razão de mortalidade materna (sem correção),Brancas,53.30,por 100 mil nascidos vivos,419
+16/12,Razão de mortalidade materna (sem correção),Pretas,82.15,por 100 mil nascidos vivos,156
+16/12,Razão de mortalidade materna (sem correção),Pardas,51.06,por 100 mil nascidos vivos,678
+16/12,Razão de mortalidade materna (sem correção),Indígenas,131.49,por 100 mil nascidos vivos,38
+16/12,Óbitos maternos sem raça informada,Total,11.00,óbitos,0
+16/12,Nascidos vivos sem raça da mãe informada,Total,45610.00,nascimentos,0
+17/12,7 ou mais consultas de pré-natal,Total,79.07,% dos nascidos vivos,2389325
+17/12,Pré-natal iniciado no 1º trimestre,Total,83.39,% dos nascidos vivos,2389325
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Total,77.04,% dos nascidos vivos,2389325
+17/12,7 ou mais consultas de pré-natal,Negras (pretas e pardas),76.76,% dos nascidos vivos,1517746
+17/12,Pré-natal iniciado no 1º trimestre,Negras (pretas e pardas),81.88,% dos nascidos vivos,1517746
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Negras (pretas e pardas),74.80,% dos nascidos vivos,1517746
+17/12,7 ou mais consultas de pré-natal,Brancas,84.83,% dos nascidos vivos,786165
+17/12,Pré-natal iniciado no 1º trimestre,Brancas,88.64,% dos nascidos vivos,786165
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Brancas,83.77,% dos nascidos vivos,786165
+17/12,7 ou mais consultas de pré-natal,Pretas,76.76,% dos nascidos vivos,189894
+17/12,Pré-natal iniciado no 1º trimestre,Pretas,80.81,% dos nascidos vivos,189894
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Pretas,73.96,% dos nascidos vivos,189894
+17/12,7 ou mais consultas de pré-natal,Pardas,76.76,% dos nascidos vivos,1327852
+17/12,Pré-natal iniciado no 1º trimestre,Pardas,82.04,% dos nascidos vivos,1327852
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Pardas,74.92,% dos nascidos vivos,1327852
+17/12,7 ou mais consultas de pré-natal,Indígenas,53.60,% dos nascidos vivos,28900
+17/12,Pré-natal iniciado no 1º trimestre,Indígenas,64.34,% dos nascidos vivos,28900
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Indígenas,53.59,% dos nascidos vivos,28900
+17/12,7 ou mais consultas de pré-natal,Mães de 10 a 19 anos,69.39,% dos nascidos vivos,273213
+17/12,Pré-natal iniciado no 1º trimestre,Mães de 10 a 19 anos,75.23,% dos nascidos vivos,273213
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Mães de 10 a 19 anos,66.17,% dos nascidos vivos,273213
+17/12,7 ou mais consultas de pré-natal,Mães sem instrução ou fundamental I,62.58,% dos nascidos vivos,53959
+17/12,Pré-natal iniciado no 1º trimestre,Mães sem instrução ou fundamental I,68.69,% dos nascidos vivos,53959
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Mães sem instrução ou fundamental I,59.02,% dos nascidos vivos,53959
+17/12,7 ou mais consultas de pré-natal,Mães com superior completo,88.00,% dos nascidos vivos,464662
+17/12,Pré-natal iniciado no 1º trimestre,Mães com superior completo,91.97,% dos nascidos vivos,464662
+17/12,Pré-natal adequado ou mais que adequado (índice de Kotelchuck),Mães com superior completo,88.07,% dos nascidos vivos,464662
+23/11,"Mulheres mortas por agressão (homicídio), 2024",Total,3538.00,óbitos,3538
+23/11,Uma mulher morta por agressão a cada,Total,2.48,horas,3538
+23/11,Mulheres negras entre as vítimas,Total,67.95,%,3538
+23/11,Mortas dentro de casa (local do óbito: domicílio),Total,33.52,%,3538
+23/11,"Homens mortos dentro de casa, entre os homens vítimas",Total,13.24,%,36028
+validação,Total de óbitos no SIM 2024,Total,1527369.00,óbitos,1527369

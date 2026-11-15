@@ -1,0 +1,104 @@
+posts,bloco,indicador,grupo,valor,unidade,ep,cv,n_amostra
+17/11 noite; 20/11,Desocupação,Taxa de desocupação,Mulheres,6.40,%,0.11,1.66,109330
+20/11; 30/11,Informalidade,Taxa de informalidade (ocupados),Mulheres,35.43,%,0.24,0.68,102740
+30/11,13º salário,"Ocupados sem direito a 13º (sem carteira, conta própria, empregador, familiar)",Mulheres,49.12,%,0.25,0.51,102740
+02/12 noite,Salário mínimo,Ocupados com rendimento de até 1 salário mínimo (R$ 1.621),Mulheres,36.78,%,0.25,0.67,99686
+17/11 noite; 20/11,Desocupação,Taxa de desocupação,Homens,4.59,%,0.09,1.91,139359
+20/11; 30/11,Informalidade,Taxa de informalidade (ocupados),Homens,38.97,%,0.22,0.55,133360
+30/11,13º salário,"Ocupados sem direito a 13º (sem carteira, conta própria, empregador, familiar)",Homens,52.94,%,0.22,0.41,133360
+02/12 noite,Salário mínimo,Ocupados com rendimento de até 1 salário mínimo (R$ 1.621),Homens,27.42,%,0.18,0.66,131788
+17/11 noite; 20/11,Desocupação,Taxa de desocupação,Mulheres negras,7.67,%,0.16,2.11,61956
+20/11; 30/11,Informalidade,Taxa de informalidade (ocupados),Mulheres negras,39.61,%,0.33,0.82,57494
+30/11,13º salário,"Ocupados sem direito a 13º (sem carteira, conta própria, empregador, familiar)",Mulheres negras,51.46,%,0.33,0.65,57494
+02/12 noite,Salário mínimo,Ocupados com rendimento de até 1 salário mínimo (R$ 1.621),Mulheres negras,45.94,%,0.31,0.68,55717
+17/11 noite; 20/11,Desocupação,Taxa de desocupação,Mulheres brancas,4.86,%,0.13,2.70,46233
+20/11; 30/11,Informalidade,Taxa de informalidade (ocupados),Mulheres brancas,30.45,%,0.38,1.24,44177
+30/11,13º salário,"Ocupados sem direito a 13º (sem carteira, conta própria, empregador, familiar)",Mulheres brancas,46.24,%,0.39,0.84,44177
+02/12 noite,Salário mínimo,Ocupados com rendimento de até 1 salário mínimo (R$ 1.621),Mulheres brancas,26.16,%,0.36,1.39,42941
+17/11 noite; 20/11,Desocupação,Taxa de desocupação,Homens negros,5.26,%,0.12,2.19,83954
+20/11; 30/11,Informalidade,Taxa de informalidade (ocupados),Homens negros,43.29,%,0.29,0.67,79760
+30/11,13º salário,"Ocupados sem direito a 13º (sem carteira, conta própria, empregador, familiar)",Homens negros,54.16,%,0.29,0.54,79760
+02/12 noite,Salário mínimo,Ocupados com rendimento de até 1 salário mínimo (R$ 1.621),Homens negros,34.32,%,0.26,0.75,78738
+17/11 noite; 20/11,Desocupação,Taxa de desocupação,Homens brancos,3.66,%,0.12,3.18,54092
+20/11; 30/11,Informalidade,Taxa de informalidade (ocupados),Homens brancos,33.14,%,0.30,0.91,52338
+30/11,13º salário,"Ocupados sem direito a 13º (sem carteira, conta própria, empregador, familiar)",Homens brancos,51.12,%,0.31,0.60,52338
+02/12 noite,Salário mínimo,Ocupados com rendimento de até 1 salário mínimo (R$ 1.621),Homens brancos,18.06,%,0.24,1.32,51810
+17/11 noite,Desocupação,Taxa de desocupação,"Mulheres, 14 a 24 anos",14.81,%,0.39,2.66,14368
+17/11 noite,Desocupação,Taxa de desocupação,"Homens, 14 a 24 anos",11.38,%,0.34,2.96,19741
+17/11 noite,Desocupação,Taxa de desocupação,"Mulheres negras, 14 a 24 anos",16.50,%,0.54,3.27,8570
+17/11 noite,Desocupação,Taxa de desocupação,"Mulheres, 25 a 39 anos",6.37,%,0.18,2.89,37931
+17/11 noite,Desocupação,Taxa de desocupação,"Homens, 25 a 39 anos",3.99,%,0.13,3.24,45180
+17/11 noite,Desocupação,Taxa de desocupação,"Mulheres negras, 25 a 39 anos",7.76,%,0.26,3.38,22104
+17/11 noite,Desocupação,Taxa de desocupação,"Mulheres, 40 a 59 anos",4.11,%,0.13,3.05,47912
+17/11 noite,Desocupação,Taxa de desocupação,"Homens, 40 a 59 anos",3.02,%,0.11,3.57,57837
+17/11 noite,Desocupação,Taxa de desocupação,"Mulheres negras, 40 a 59 anos",4.97,%,0.19,3.85,26709
+17/11,Penalidade materna,Nível de ocupação (% ocupados),Mulheres com filho(a) de 0 a 5 anos,56.81,%,0.50,0.88,20376
+17/11,Penalidade materna,"Rendimento médio, todos os trabalhos",Mulheres com filho(a) de 0 a 5 anos,3594.59,R$/mês,67.26,1.87,10680
+17/11,Penalidade materna,Jornada parcial (menos de 30 horas),Mulheres com filho(a) de 0 a 5 anos,19.57,%,0.50,2.55,10680
+17/11,Penalidade materna,Nível de ocupação (% ocupados),Mulheres sem filho(a) de até 14 anos,77.91,%,0.37,0.48,20764
+17/11,Penalidade materna,"Rendimento médio, todos os trabalhos",Mulheres sem filho(a) de até 14 anos,3968.98,R$/mês,65.57,1.65,15353
+17/11,Penalidade materna,Jornada parcial (menos de 30 horas),Mulheres sem filho(a) de até 14 anos,10.74,%,0.30,2.78,15353
+17/11,Penalidade materna,Nível de ocupação (% ocupados),Homens com filho(a) de 0 a 5 anos,93.85,%,0.23,0.25,15922
+17/11,Penalidade materna,"Rendimento médio, todos os trabalhos",Homens com filho(a) de 0 a 5 anos,4634.94,R$/mês,82.55,1.78,14715
+17/11,Penalidade materna,Jornada parcial (menos de 30 horas),Homens com filho(a) de 0 a 5 anos,5.43,%,0.22,4.05,14715
+17/11,Penalidade materna,Nível de ocupação (% ocupados),Homens sem filho(a) de até 14 anos,90.80,%,0.27,0.30,21055
+17/11,Penalidade materna,"Rendimento médio, todos os trabalhos",Homens sem filho(a) de até 14 anos,4765.62,R$/mês,71.86,1.51,18850
+17/11,Penalidade materna,Jornada parcial (menos de 30 horas),Homens sem filho(a) de até 14 anos,5.55,%,0.20,3.65,18850
+17/11,Penalidade materna,Nível de ocupação (% ocupados),Mulheres negras com filho(a) de 0 a 5 anos,50.83,%,0.55,1.09,13055
+17/11,Penalidade materna,Nível de ocupação (% ocupados),Mulheres negras sem filho(a) de até 14 anos,73.23,%,0.54,0.74,12256
+17/11,Penalidade materna,Nível de ocupação (% ocupados),Mulheres brancas com filho(a) de 0 a 5 anos,66.11,%,0.78,1.18,7071
+17/11,Penalidade materna,Nível de ocupação (% ocupados),Mulheres brancas sem filho(a) de até 14 anos,83.64,%,0.52,0.62,8314
+19/11,Negócio próprio,Conta própria (% dos ocupados),Mulheres,20.03,%,0.20,1.01,102740
+19/11,Negócio próprio,Empregadoras/es (% dos ocupados),Mulheres,3.03,%,0.08,2.57,102740
+19/11,Negócio próprio,Conta própria: total,Mulheres,8966.24,mil pessoas,99.72,1.11,21381
+19/11 noite,Negócio próprio,Conta própria com CNPJ (aprox. MEI e afins),Mulheres,30.25,% dos conta própria,0.57,1.88,21381
+19/11 noite,Negócio próprio,Conta própria com CNPJ: total,Mulheres,2711.93,mil pessoas,61.69,2.27,5617
+19/11,Negócio próprio,"Rendimento médio, conta própria",Mulheres,2845.41,R$/mês,54.10,1.90,21381
+19/11,Negócio próprio,"Rendimento médio, conta própria sem CNPJ",Mulheres,1944.72,R$/mês,31.36,1.61,15764
+19/11,Negócio próprio,Conta própria (% dos ocupados),Homens,29.38,%,0.18,0.63,133360
+19/11,Negócio próprio,Empregadoras/es (% dos ocupados),Homens,5.07,%,0.10,1.91,133360
+19/11,Negócio próprio,Conta própria: total,Homens,17126.61,mil pessoas,109.48,0.64,42296
+19/11 noite,Negócio próprio,Conta própria com CNPJ (aprox. MEI e afins),Homens,26.46,% dos conta própria,0.38,1.42,42296
+19/11 noite,Negócio próprio,Conta própria com CNPJ: total,Homens,4531.04,mil pessoas,72.34,1.60,9088
+19/11,Negócio próprio,"Rendimento médio, conta própria",Homens,3369.90,R$/mês,39.79,1.18,42296
+19/11,Negócio próprio,"Rendimento médio, conta própria sem CNPJ",Homens,2440.73,R$/mês,21.90,0.90,33208
+19/11,Negócio próprio,Conta própria (% dos ocupados),Mulheres negras,19.31,%,0.25,1.30,57494
+19/11,Negócio próprio,Empregadoras/es (% dos ocupados),Mulheres negras,1.87,%,0.08,4.34,57494
+19/11,Negócio próprio,Conta própria: total,Mulheres negras,4607.89,mil pessoas,64.72,1.40,11566
+19/11 noite,Negócio próprio,Conta própria com CNPJ (aprox. MEI e afins),Mulheres negras,22.53,% dos conta própria,0.59,2.64,11566
+19/11 noite,Negócio próprio,Conta própria com CNPJ: total,Mulheres negras,1038.28,mil pessoas,30.79,2.97,2195
+19/11,Negócio próprio,"Rendimento médio, conta própria",Mulheres negras,2048.24,R$/mês,41.59,2.03,11566
+19/11,Negócio próprio,"Rendimento médio, conta própria sem CNPJ",Mulheres negras,1527.70,R$/mês,24.43,1.60,9371
+19/11,Negócio próprio,Conta própria (% dos ocupados),Mulheres brancas,20.79,%,0.31,1.49,44177
+19/11,Negócio próprio,Empregadoras/es (% dos ocupados),Mulheres brancas,4.38,%,0.14,3.12,44177
+19/11,Negócio próprio,Conta própria: total,Mulheres brancas,4246.38,mil pessoas,76.65,1.80,9561
+19/11 noite,Negócio próprio,Conta própria com CNPJ (aprox. MEI e afins),Mulheres brancas,38.57,% dos conta própria,0.87,2.25,9561
+19/11 noite,Negócio próprio,Conta própria com CNPJ: total,Mulheres brancas,1637.70,mil pessoas,48.59,2.97,3358
+19/11,Negócio próprio,"Rendimento médio, conta própria",Mulheres brancas,3699.98,R$/mês,91.27,2.47,9561
+19/11,Negócio próprio,"Rendimento médio, conta própria sem CNPJ",Mulheres brancas,2517.75,R$/mês,63.37,2.52,6203
+16/11 noite; 14/12 noite,Jornada,Empregados com carteira: jornada habitual de 44 horas ou mais,Mulheres,51.74,%,0.46,0.89,32114
+16/11 noite,Jornada,"Comércio, com carteira: jornada de 44 horas ou mais",Mulheres,69.35,%,0.77,1.11,8985
+16/11 noite,Jornada,"Comércio, com carteira: total",Mulheres,4434.42,mil pessoas,61.97,1.40,8985
+16/11 noite; 14/12 noite,Jornada,Empregados com carteira: jornada habitual de 44 horas ou mais,Homens,59.34,%,0.38,0.65,45763
+16/11 noite,Jornada,"Comércio, com carteira: jornada de 44 horas ou mais",Homens,69.65,%,0.76,1.09,10766
+16/11 noite,Jornada,"Comércio, com carteira: total",Homens,5480.93,mil pessoas,72.90,1.33,10766
+08/12,Direção,Mulheres entre diretores e gerentes,Total,39.54,%,0.69,1.75,7931
+08/12,Direção,Mulheres entre os ocupados,Total,43.44,%,0.07,0.17,236100
+08/12,Direção,Participação entre diretores e gerentes,Mulheres negras,14.05,%,0.49,3.52,7931
+08/12,Direção,Participação entre os ocupados,Mulheres negras,23.16,%,0.13,0.57,236100
+08/12,Direção,Participação entre diretores e gerentes,Mulheres brancas,24.77,%,0.66,2.67,7931
+08/12,Direção,Participação entre os ocupados,Mulheres brancas,19.82,%,0.13,0.66,236100
+08/12,Direção,Participação entre diretores e gerentes,Homens negros,21.24,%,0.64,3.01,7931
+08/12,Direção,Participação entre os ocupados,Homens negros,32.34,%,0.14,0.45,236100
+08/12,Direção,Participação entre diretores e gerentes,Homens brancos,38.53,%,0.80,2.09,7931
+08/12,Direção,Participação entre os ocupados,Homens brancos,23.67,%,0.13,0.54,236100
+08/12,Direção,Rendimento médio de diretores e gerentes,Mulheres,8209.69,R$/mês,224.82,2.74,3222
+08/12,Direção,Rendimento médio de diretores e gerentes,Homens,11252.88,R$/mês,306.43,2.72,4709
+02/12; 30/11 noite,Chefia,Domicílios com mulher como responsável,Total,52.49,%,0.15,0.28,197757
+02/12,Chefia,"Domicílios com mulher como responsável, por raça da responsável",Responsável negra,53.19,%,0.21,0.39,118367
+02/12,Chefia,"Domicílios com mulher como responsável, por raça da responsável",Responsável branca,51.51,%,0.24,0.47,77293
+02/12; 30/11 noite,Chefia,Responsáveis mulheres sem cônjuge e com filho(a) de até 14 anos,Total,5335.35,mil domicílios,67.34,1.26,12428
+02/12,Chefia,"Mulheres responsáveis sem cônjuge e com filho(a) de até 14 anos, entre as responsáveis",Mulheres,12.58,%,0.15,1.18,105509
+02/12,Chefia,Homens responsáveis sem cônjuge e com filho(a) de até 14 anos,Total,543.71,mil domicílios,21.60,3.97,1210
+30/11 noite,Chefia,"Rendimento médio, mães sozinhas com filho(a) até 14 anos (ocupadas)",Mulheres,2606.52,R$/mês,57.07,2.19,7251
+30/11 noite,Chefia,Mães sozinhas com filho(a) até 14 anos: % ocupadas,Mulheres,61.36,%,0.59,0.97,12428

@@ -1,0 +1,52 @@
+posts,bloco,indicador,grupo,valor,unidade,ep,cv,n_amostra
+01/12; 04/12,Horas,Horas semanais em afazeres e/ou cuidados (média entre quem fez),Mulheres,21.26,horas/semana,0.09,0.42,149326
+04/12,Realização,Fez afazeres e/ou cuidados,Mulheres,92.11,%,0.11,0.12,163589
+01/12; 04/12,Horas,Horas semanais em afazeres e/ou cuidados (média entre quem fez),Homens,11.71,horas/semana,0.05,0.45,119060
+04/12,Realização,Fez afazeres e/ou cuidados,Homens,80.74,%,0.19,0.24,150242
+01/12; 04/12,Horas,Horas semanais em afazeres e/ou cuidados (média entre quem fez),Mulheres negras,21.99,horas/semana,0.10,0.46,87221
+04/12,Realização,Fez afazeres e/ou cuidados,Mulheres negras,92.84,%,0.13,0.13,94812
+01/12; 04/12,Horas,Horas semanais em afazeres e/ou cuidados (média entre quem fez),Mulheres brancas,20.37,horas/semana,0.12,0.58,60518
+04/12,Realização,Fez afazeres e/ou cuidados,Mulheres brancas,91.20,%,0.18,0.19,67063
+01/12; 04/12,Horas,Horas semanais em afazeres e/ou cuidados (média entre quem fez),Homens negros,11.71,horas/semana,0.07,0.58,71042
+04/12,Realização,Fez afazeres e/ou cuidados,Homens negros,80.15,%,0.24,0.30,90522
+01/12; 04/12,Horas,Horas semanais em afazeres e/ou cuidados (média entre quem fez),Homens brancos,11.69,horas/semana,0.07,0.60,46850
+04/12,Realização,Fez afazeres e/ou cuidados,Homens brancos,81.50,%,0.31,0.38,58280
+01/12,Horas,"Horas semanais, ocupados(as)",Mulheres,17.77,horas/semana,0.09,0.51,64069
+01/12,Horas,"Horas semanais, não ocupados(as)",Mulheres,24.44,horas/semana,0.12,0.48,85257
+01/12,Jornada total,"Trabalho pago + afazeres/cuidados, ocupados(as)",Mulheres,54.18,horas/semana,0.11,0.20,67782
+01/12,Horas,"Horas semanais, com filho(a) de 0 a 5 anos em casa",Mulheres,26.46,horas/semana,0.24,0.91,19573
+01/12,Horas,"Horas semanais, 1º quinto de renda domiciliar per capita",Mulheres,24.77,horas/semana,0.16,0.65,34780
+01/12,Horas,"Horas semanais, 2º quinto de renda domiciliar per capita",Mulheres,23.14,horas/semana,0.15,0.66,30874
+01/12,Horas,"Horas semanais, 3º quinto de renda domiciliar per capita",Mulheres,21.10,horas/semana,0.14,0.67,31278
+01/12,Horas,"Horas semanais, 4º quinto de renda domiciliar per capita",Mulheres,19.53,horas/semana,0.15,0.75,26695
+01/12,Horas,"Horas semanais, 5º quinto de renda domiciliar per capita",Mulheres,17.36,horas/semana,0.13,0.72,25628
+04/12; 05/12; 15/12,Tarefas,"Fez: Preparar ou servir alimentos, lavar louça",Mulheres,87.34,%,0.13,0.15,163589
+04/12; 05/12; 15/12,Tarefas,Fez: Limpar ou arrumar a casa,Mulheres,75.35,%,0.23,0.31,163589
+04/12; 05/12; 15/12,Tarefas,Fez: Cuidar das roupas e sapatos,Mulheres,84.24,%,0.15,0.18,163589
+04/12; 05/12; 15/12,Tarefas,"Fez: Organizar a casa: contas, compras, orientar empregados",Mulheres,68.46,%,0.24,0.36,163589
+04/12; 05/12; 15/12,Tarefas,Fez: Fazer compras ou pesquisar preços,Mulheres,71.53,%,0.20,0.28,163589
+04/12; 05/12; 15/12,Tarefas,Fez: Pequenos reparos e manutenção,Mulheres,30.05,%,0.31,1.04,163589
+04/12; 05/12; 15/12,Tarefas,Fez: Cuidar dos animais domésticos,Mulheres,48.74,%,0.24,0.49,163589
+04/12,Cuidado,"Cuidou de moradores (crianças, idosos, pessoas com deficiência ou doentes)",Mulheres,30.76,%,0.20,0.64,163589
+04/12,Cuidado,"Cuidou de moradores, entre quem tem filho(a) de 0 a 5 anos em casa",Mulheres,77.01,%,0.52,0.68,20348
+01/12,Horas,"Horas semanais, ocupados(as)",Homens,10.97,horas/semana,0.06,0.51,77113
+01/12,Horas,"Horas semanais, não ocupados(as)",Homens,13.38,horas/semana,0.09,0.64,41947
+01/12,Jornada total,"Trabalho pago + afazeres/cuidados, ocupados(as)",Homens,50.89,horas/semana,0.09,0.17,92440
+01/12,Horas,"Horas semanais, com filho(a) de 0 a 5 anos em casa",Homens,13.01,horas/semana,0.15,1.12,15549
+01/12,Horas,"Horas semanais, 1º quinto de renda domiciliar per capita",Homens,12.16,horas/semana,0.11,0.92,25203
+01/12,Horas,"Horas semanais, 2º quinto de renda domiciliar per capita",Homens,11.66,horas/semana,0.11,0.94,23236
+01/12,Horas,"Horas semanais, 3º quinto de renda domiciliar per capita",Homens,12.12,horas/semana,0.10,0.85,25083
+01/12,Horas,"Horas semanais, 4º quinto de renda domiciliar per capita",Homens,11.47,horas/semana,0.10,0.86,23142
+01/12,Horas,"Horas semanais, 5º quinto de renda domiciliar per capita",Homens,11.23,horas/semana,0.10,0.89,22380
+04/12; 05/12; 15/12,Tarefas,"Fez: Preparar ou servir alimentos, lavar louça",Homens,51.99,%,0.27,0.52,150242
+04/12; 05/12; 15/12,Tarefas,Fez: Limpar ou arrumar a casa,Homens,57.13,%,0.25,0.45,150242
+04/12; 05/12; 15/12,Tarefas,Fez: Cuidar das roupas e sapatos,Homens,47.89,%,0.27,0.57,150242
+04/12; 05/12; 15/12,Tarefas,"Fez: Organizar a casa: contas, compras, orientar empregados",Homens,56.72,%,0.26,0.46,150242
+04/12; 05/12; 15/12,Tarefas,Fez: Fazer compras ou pesquisar preços,Homens,58.03,%,0.25,0.44,150242
+04/12; 05/12; 15/12,Tarefas,Fez: Pequenos reparos e manutenção,Homens,47.56,%,0.33,0.70,150242
+04/12; 05/12; 15/12,Tarefas,Fez: Cuidar dos animais domésticos,Homens,38.02,%,0.22,0.58,150242
+04/12,Cuidado,"Cuidou de moradores (crianças, idosos, pessoas com deficiência ou doentes)",Homens,21.32,%,0.19,0.89,150242
+04/12,Cuidado,"Cuidou de moradores, entre quem tem filho(a) de 0 a 5 anos em casa",Homens,63.59,%,0.63,1.00,18021
+01/12; 04/12,Diferença,Mulheres − homens (horas semanais),—,9.55,horas/semana,0.07,0.76,268386
+01/12,Diferença,Jornada total: mulheres − homens ocupados,—,3.29,horas/semana,0.11,3.23,160222
+01/12,Diferença,Mulheres negras − brancas (horas),—,1.61,horas/semana,0.13,8.04,149326
