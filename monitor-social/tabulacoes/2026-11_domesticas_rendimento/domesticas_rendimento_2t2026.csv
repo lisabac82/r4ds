@@ -1,0 +1,53 @@
+bloco,indicador,valor,unidade,ep,cv,n_amostra
+Domésticas,Trabalhadoras domésticas,4955.97,mil pessoas,66.71,1.35,11823
+Domésticas,Trabalhadores domésticos (homens),453.66,mil pessoas,20.40,4.50,1573
+Domésticas,Mulheres entre os trabalhadores domésticos,91.61,%,0.35,0.38,13396
+Domésticas,Domésticas entre as mulheres ocupadas,11.07,%,0.15,1.32,102740
+Domésticas,Negras entre as domésticas,67.42,%,0.70,1.03,11823
+Domésticas,Negras entre as demais ocupadas,51.55,%,0.31,0.60,90917
+Domésticas,Sem carteira entre as domésticas,77.53,%,0.60,0.78,11823
+Domésticas,Sem carteira entre as domésticas negras,77.97,%,0.64,0.83,8177
+Domésticas,Sem carteira entre as domésticas brancas,76.42,%,1.10,1.44,3532
+Domésticas,Não contribuem para a previdência (domésticas),66.18,%,0.68,1.03,11823
+Domésticas,Com 50 anos ou mais (domésticas),40.76,%,0.59,1.44,11823
+Domésticas,"Rendimento mediano, trabalho principal: domésticas",1600.00,R$/mês,48.21,3.01,11823
+Domésticas,"Rendimento mediano, trabalho principal: domésticas com carteira",1650.00,R$/mês,43.03,2.61,2576
+Domésticas,"Rendimento mediano, trabalho principal: domésticas sem carteira",1000.00,R$/mês,33.14,3.31,9247
+Domésticas,"Rendimento mediano, trabalho principal: todas as ocupadas",2000.00,R$/mês,0.00,0.00,102740
+Domésticas,"Rendimento médio, trabalho principal: domésticas",1409.71,R$/mês,12.87,0.91,11823
+Domésticas,Horas habituais médias por semana (domésticas),31.27,horas,0.19,0.62,11823
+Rendimento,"Médio, todos os trabalhos: Homens",4085.52,R$/mês,35.86,0.88,133360
+Rendimento,"Mediano, todos os trabalhos: Homens",2500.00,R$/mês,0.00,0.00,133360
+Rendimento,Mediano por hora: Homens,61.36,índice por hora (usar só na razão),0.77,1.26,133360
+Rendimento,"Médio, todos os trabalhos: Mulheres",3280.53,R$/mês,27.28,0.83,102740
+Rendimento,"Mediano, todos os trabalhos: Mulheres",2000.00,R$/mês,0.00,0.00,102740
+Rendimento,Mediano por hora: Mulheres,54.55,índice por hora (usar só na razão),0.34,0.62,102740
+Rendimento,"Médio, todos os trabalhos: Homens brancos",5370.27,R$/mês,71.01,1.32,52338
+Rendimento,"Mediano, todos os trabalhos: Homens brancos",3000.00,R$/mês,0.00,0.00,52338
+Rendimento,Mediano por hora: Homens brancos,75.00,índice por hora (usar só na razão),0.29,0.38,52338
+Rendimento,"Médio, todos os trabalhos: Homens negros",3131.60,R$/mês,21.61,0.69,79760
+Rendimento,"Mediano, todos os trabalhos: Homens negros",2000.00,R$/mês,37.30,1.87,79760
+Rendimento,Mediano por hora: Homens negros,52.08,índice por hora (usar só na razão),0.48,0.92,79760
+Rendimento,"Médio, todos os trabalhos: Mulheres brancas",4111.89,R$/mês,45.17,1.10,44177
+Rendimento,"Mediano, todos os trabalhos: Mulheres brancas",2500.00,R$/mês,0.00,0.00,44177
+Rendimento,Mediano por hora: Mulheres brancas,66.67,índice por hora (usar só na razão),0.81,1.22,44177
+Rendimento,"Médio, todos os trabalhos: Mulheres negras",2544.70,R$/mês,19.11,0.75,57494
+Rendimento,"Mediano, todos os trabalhos: Mulheres negras",1800.00,R$/mês,0.00,0.00,57494
+Rendimento,Mediano por hora: Mulheres negras,47.73,índice por hora (usar só na razão),0.65,1.37,57494
+Razão (R$ a cada R$ 100),Média: Mulheres / homens,80.30,R$ por R$ 100,0.46,0.58,0
+Razão (R$ a cada R$ 100),Mediana: Mulheres / homens,80.00,R$ por R$ 100,0.00,0.00,0
+Razão (R$ a cada R$ 100),Mediana por hora: Mulheres / homens,88.89,R$ por R$ 100,1.00,1.12,0
+Razão (R$ a cada R$ 100),Média: Mulheres negras / homens brancos,47.38,R$ por R$ 100,0.61,1.30,0
+Razão (R$ a cada R$ 100),Mediana: Mulheres negras / homens brancos,60.00,R$ por R$ 100,0.00,0.00,0
+Razão (R$ a cada R$ 100),Mediana por hora: Mulheres negras / homens brancos,63.64,R$ por R$ 100,0.90,1.41,0
+Razão (R$ a cada R$ 100),Média: Mulheres brancas / homens brancos,76.57,R$ por R$ 100,0.71,0.93,0
+Razão (R$ a cada R$ 100),Mediana: Mulheres brancas / homens brancos,83.33,R$ por R$ 100,0.00,0.00,0
+Razão (R$ a cada R$ 100),Mediana por hora: Mulheres brancas / homens brancos,88.89,R$ por R$ 100,1.15,1.29,0
+Razão (R$ a cada R$ 100),Média: Mulheres negras / homens negros,81.26,R$ por R$ 100,0.65,0.80,0
+Razão (R$ a cada R$ 100),Mediana: Mulheres negras / homens negros,90.00,R$ por R$ 100,1.61,1.78,0
+Razão (R$ a cada R$ 100),Mediana por hora: Mulheres negras / homens negros,91.64,R$ por R$ 100,1.47,1.61,0
+Razão (R$ a cada R$ 100),Média: Mulheres negras / mulheres brancas,61.89,R$ por R$ 100,0.70,1.14,0
+Razão (R$ a cada R$ 100),Mediana: Mulheres negras / mulheres brancas,72.00,R$ por R$ 100,0.00,0.00,0
+Razão (R$ a cada R$ 100),Mediana por hora: Mulheres negras / mulheres brancas,71.59,R$ por R$ 100,1.09,1.52,0
+Validação,Rendimento médio habitual todos os trabalhos (total),3738.16,R$/mês,30.37,0.81,236100
+Validação,Trabalhadores domésticos (total),5409.63,mil pessoas,71.21,1.32,13396
