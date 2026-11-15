@@ -1,0 +1,33 @@
+grupo,categoria,n_amostra,total_mil,cv_total,taxa_pct,cv_taxa,pct_dos_fora,cv_pct_fora,pct_queriam_trabalhar,cv_queriam
+Sexo,Mulheres,36933,13556.01,0.71,14.92,0.71,31.51,0.57,12.36,2.12
+Sexo,Homens,2530,884.13,3.76,1.05,3.76,3.77,3.64,15.70,12.80
+Cor ou raça (mulheres),Branca,11495,4663.50,1.33,11.85,1.34,26.07,1.13,10.70,3.76
+Cor ou raça (mulheres),Preta,3435,1361.25,2.32,14.35,2.24,32.02,1.91,15.34,5.65
+Cor ou raça (mulheres),Parda,21614,7402.29,0.99,18.03,0.89,36.21,0.73,12.84,2.58
+Cor ou raça (mulheres),Indígena,249,65.36,9.01,16.96,8.08,34.46,7.02,14.08,21.86
+Cor ou raça (mulheres),Amarela,137,62.63,11.96,11.41,11.17,26.11,11.05,12.17,28.73
+Região (mulheres),Norte,5915,1416.34,2.01,19.36,2.10,37.46,1.76,12.38,5.99
+Região (mulheres),Nordeste,15349,4921.90,1.03,20.19,1.07,36.04,0.87,14.00,3.22
+Região (mulheres),Sudeste,7888,4759.44,1.55,12.32,1.59,28.10,1.35,12.30,4.34
+Região (mulheres),Sul,4414,1483.04,1.85,11.07,1.87,26.49,1.73,9.86,6.67
+Região (mulheres),Centro-Oeste,3367,975.29,2.18,13.72,2.29,32.08,2.11,8.14,6.86
+Idade (mulheres),14 a 24,3841,1448.81,2.11,9.00,2.11,16.18,1.81,16.85,5.06
+Idade (mulheres),25 a 39,12432,4744.23,1.16,19.39,1.16,68.67,0.69,15.78,2.89
+Idade (mulheres),40 a 59,15081,5352.66,1.11,17.86,1.11,52.16,0.86,10.36,3.53
+Idade (mulheres),60 ou mais,5579,2010.30,1.76,9.90,1.76,11.90,1.70,6.38,7.38
+Instrução (mulheres),Até fundamental incompleto,13340,4307.82,1.33,18.09,1.23,24.06,1.14,9.92,3.90
+Instrução (mulheres),Fundamental completo / médio incompleto,6752,2455.51,1.64,18.01,1.56,29.35,1.37,13.02,4.35
+Instrução (mulheres),Médio completo / superior incompleto,13934,5592.72,1.18,16.08,1.12,43.82,0.91,14.24,3.09
+Instrução (mulheres),Superior completo,2907,1199.96,2.82,6.45,2.52,30.11,2.22,10.96,6.89
+Condição no domicílio (mulheres),Responsável,18846,7080.27,0.99,16.69,0.92,35.63,0.79,13.23,2.99
+Condição no domicílio (mulheres),Cônjuge,13957,5022.27,1.20,20.12,1.16,48.10,0.84,10.87,3.41
+Condição no domicílio (mulheres),Filha/enteada,2348,799.07,2.84,5.22,2.80,10.32,2.70,16.58,6.97
+Condição no domicílio (mulheres),Outra,1782,654.41,3.34,8.02,3.17,13.20,3.01,9.18,10.52
+Criança pequena (mulheres),Com criança de 0 a 5 anos em casa,12535,4923.93,1.08,30.21,1.10,65.35,0.65,16.76,2.90
+Criança pequena (mulheres),Sem criança de 0 a 5 anos em casa,24398,8632.08,0.94,11.58,0.95,24.33,0.81,9.85,2.86
+Cor ou raça (mulheres),Negra (preta + parda),25049,8763.53,0.92,17.34,0.84,35.49,0.67,13.23,2.36
+Raça × criança pequena (mulheres),"Negras, com criança de 0 a 5 anos em casa",9057,3411.62,1.23,32.98,1.17,65.78,0.75,17.58,3.13
+Raça × criança pequena (mulheres),"Brancas, com criança de 0 a 5 anos em casa",3316,1459.96,2.58,25.26,2.30,64.37,1.50,14.85,5.86
+Raça × criança pequena (mulheres),"Negras, sem criança de 0 a 5 anos em casa",15992,5351.91,1.31,13.32,1.22,27.44,1.03,10.46,3.42
+Raça × criança pequena (mulheres),"Brancas, sem criança de 0 a 5 anos em casa",8179,3203.55,1.52,9.54,1.56,20.51,1.39,8.82,4.94
+Sexo × criança pequena,Homens com criança de 0 a 5 anos em casa,338,127.66,9.37,0.99,9.38,6.49,9.00,14.54,19.40
